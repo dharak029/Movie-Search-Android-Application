@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_Home"
+        android:title="Home"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_Rating"
+        android:title="SORT by Rating"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_Popularity"
+        android:title="SORT by Popularity"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_quit"
+        android:title="Quit"
+        app:showAsAction="never"/>
+</menu>
